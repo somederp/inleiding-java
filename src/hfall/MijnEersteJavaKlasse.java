@@ -1,4 +1,4 @@
-package hf1;
+package hfall;
 
 /**
  * Created by Patri on 9-9-2016.
