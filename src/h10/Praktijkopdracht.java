@@ -6,10 +6,9 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-//H10 praktijkopdracht
 
 
-public class H1010 extends Applet {
+public class Praktijkopdracht extends Applet {
     TextField tt;
     Label lala;
     String sss, stst;

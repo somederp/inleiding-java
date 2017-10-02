@@ -6,9 +6,8 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-//10.1 en 2
 
-public class H10Again extends Applet {
+public class Opdracht1en2 extends Applet {
     TextField tft;
     Label lacel;
     String s3, sk, s3k;
