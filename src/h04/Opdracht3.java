@@ -7,7 +7,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class Opdracht3 extends Applet{
-    
+
     public void paint(Graphics g) {
         g.setColor(Color.orange);
         g.fillRect(100,50,30,454);
