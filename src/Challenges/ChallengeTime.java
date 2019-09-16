@@ -1,4 +1,4 @@
-package Toets; /**
+package Challenges; /**
  * Created by Patrick on 16-10-2017.
  */
 
@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class toets2 extends Applet {
+public class ChallengeTime extends Applet {
     TextField textfield;
     Label label;
     Button button;
